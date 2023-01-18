@@ -1,7 +1,7 @@
 # Money-Split-
 Demo app for Savvy
 
-#Installation Guide
+# Installation-Guide-
 - make sure .NET 7.0 is installed on your local machine
 - from Commandline, Navigate to ‘SavvyRazor’ directory
 - write “ dotnet run” in the Commandline to launch the web application
